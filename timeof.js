@@ -1,4 +1,4 @@
-window.onload = function() {
-    var d =  new Date();
-    document.getElementById("timeslot").innerHTML = d;
+window.onload = function () {
+  const d = new Date()
+  document.getElementById('timeslot').innerHTML = d
 }
